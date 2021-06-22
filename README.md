@@ -1,7 +1,6 @@
 <h1 align="center">
   <Img src="https://github.com/rafarod21/podcastr/blob/main/public/logo.svg" width=500/>
   <p>
-    <br>
     <img src="https://img.shields.io/static/v1?label=Status&message=Conclu%C3%ADdo&color=brightgreen&style=flat&labelColor=3E3E3E">
     <img src="https://img.shields.io/static/v1?message=NLW%2F5&label=ReactJS&color=8257E5&style=flat&logo=react&labelColor=informational">
   </p>
