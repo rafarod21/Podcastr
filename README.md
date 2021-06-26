@@ -2,7 +2,7 @@
   <br>
   <Img src="https://github.com/rafarod21/podcastr/blob/main/public/logo.svg" width=500/>
 
-  <h3 align="center"> Ouça seus podcast favoritos :notes:
+  <h3 align="center"> Ouça seus podcasts favoritos :notes:
  </h3>
   
   <p align="center">
@@ -72,7 +72,9 @@ Foi utilizado o JSON-server para simular um back-end real.
 Verifique o arquivo [server.json](https://github.com/rafarod21/Podcastr/blob/main/server.json).
 
 ## Veja você mesmo :arrow_forward:
-
+<!--
+#### :small_blue_diamond: Deploy Vercel: [Nome do projeto](https://vercel.com)
+-->
 #### :small_blue_diamond: Na própria máquina - Passo-a-passo
     
 <!-- ************ CASO O PROJETO TENHA FRONTEND E BACKEND ************ -->
