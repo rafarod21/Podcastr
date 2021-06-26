@@ -73,7 +73,51 @@ Verifique o arquivo [server.json](https://github.com/rafarod21/Podcastr/blob/mai
 
 ## Veja você mesmo :arrow_forward:
 
-Em breve... :hammer_and_wrench:
+#### :small_blue_diamond: Na própria máquina - Passo-a-passo
+    
+<!-- ************ CASO O PROJETO TENHA FRONTEND E BACKEND ************ -->
+    
+##### Passo 1: Clonando o repositório
+```bash
+git clone https://github.com/rafarod21/Podcastr.git
+```
+    
+##### Passo 2: Acessando a pasta do projeto
+```bash
+cd Podcastr
+```
+    
+##### Passo 3: Instalando as dependências com npm ou Yarn
+```bash
+# Utilizando npm
+npm install
+
+# Utilizando Yarn
+yarn install
+```
+    
+##### Passo 4: Executando o backend(servidor) do projeto com npm ou Yarn
+```bash
+# Utilizando npm
+npm run server
+
+# Utilizando Yarn
+yarn server
+```
+    
+##### Passo 5: EM OUTRO TERMINAL E NO MESMO DIRETÓRIO, execute o projeto
+```bash
+# Utilizando npm
+npm run dev
+
+# Utilizando Yarn
+yarn dev
+  
+# O projeto deverá ser iniciado na porta 3000
+```
+
+##### Passo 8: Vizualizando o projeto
+Acesse: http://localhost:3000
 
 ## Tecnologias :books:
     
