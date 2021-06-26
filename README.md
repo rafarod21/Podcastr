@@ -2,7 +2,7 @@
   <br>
   <Img src="https://github.com/rafarod21/podcastr/blob/main/public/logo.svg" width=500/>
 
-  <h3 align="center"> Aplicação para ouvir seus podcast favoritos :notes:
+  <h3 align="center"> Ouça seus podcast favoritos :notes:
  </h3>
   
   <p align="center">
@@ -50,8 +50,8 @@ Esta aplicação é um projeto desenvolvido na trilha ReactJS da Next Level Week
   💻 Desktop 💻
 </h3>
 <p align="center">
-  <Img src="https://github.com/rafarod21/Podcastr/blob/master/git-assets/Home.jpeg" width=400>
-  <Img src="https://github.com/rafarod21/Podcastr/blob/master/git-assets/Details.jpeg" width=400>
+  <Img src="https://github.com/rafarod21/Podcastr/blob/main/git-assets/Home.jpeg" width=400>
+  <Img src="https://github.com/rafarod21/Podcastr/blob/main/git-assets/Details.jpeg" width=400>
 </p>
   
 <h3 align="center">
@@ -69,7 +69,7 @@ Foi utilizado o JSON-server para simular um back-end real.
 
 ## JSON :floppy_disk:
 
-Verifique o arquivo server.json
+Verifique o arquivo [server.json](https://github.com/rafarod21/Podcastr/blob/main/server.json).
 
 ## Veja você mesmo :arrow_forward:
 
