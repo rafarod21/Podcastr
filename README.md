@@ -53,28 +53,19 @@ Esta aplicação é um projeto desenvolvido na trilha ReactJS da Next Level Week
   <Img src="https://github.com/rafarod21/Podcastr/blob/main/git-assets/Home.jpeg" width=400>
   <Img src="https://github.com/rafarod21/Podcastr/blob/main/git-assets/Details.jpeg" width=400>
 </p>
-  
-<h3 align="center">
-  :iphone: Mobile :iphone:
-</h3>
-
-<p align="center">
-  Em breve... 🛠️
-</p>
-
 
 ## Back-end :card_file_box:
 
-Foi utilizado o JSON-server para simular um back-end real.
+Foi utilizado o JSON-server para simular um backend real.
 
 ## JSON :floppy_disk:
 
 Verifique o arquivo [server.json](https://github.com/rafarod21/Podcastr/blob/main/server.json).
 
 ## Veja você mesmo :arrow_forward:
-<!--
-#### :small_blue_diamond: Deploy Vercel: [Nome do projeto](https://vercel.com)
--->
+
+#### :small_blue_diamond: Deploy Vercel: [Podcastr](https://podcastr-five-nu.vercel.app/)
+
 #### :small_blue_diamond: Na própria máquina - Passo-a-passo
     
 <!-- ************ CASO O PROJETO TENHA FRONTEND E BACKEND ************ -->
@@ -95,19 +86,10 @@ cd Podcastr
 npm install
 
 # Utilizando Yarn
-yarn install
+yarn
 ```
     
-##### Passo 4: Executando o backend(servidor) do projeto com npm ou Yarn
-```bash
-# Utilizando npm
-npm run server
-
-# Utilizando Yarn
-yarn server
-```
-    
-##### Passo 5: EM OUTRO TERMINAL E NO MESMO DIRETÓRIO, execute o projeto
+##### Passo 4: Executando o projeto com npm ou Yarn
 ```bash
 # Utilizando npm
 npm run dev
@@ -118,7 +100,7 @@ yarn dev
 # O projeto deverá ser iniciado na porta 3000
 ```
 
-##### Passo 8: Vizualizando o projeto
+##### Passo 5: Vizualizando o projeto
 Acesse: http://localhost:3000
 
 ## Tecnologias :books:
